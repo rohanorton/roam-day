@@ -13,7 +13,7 @@ describe("roam-day script", () => {
 
 // Helpers...
 
-const script = fs.readFileSync("./dist/roam-day.js", { encoding: "utf8" });
+const script = fs.readFileSync("./dist/main.js", { encoding: "utf8" });
 
 const loadFixture = async (filename: string) => {
   const dom = await JSDOM.fromFile(`./test/fixtures/${filename}`, {
