@@ -4,6 +4,8 @@ Show day of week under Roam page titles (zero dependencies).
 
 Totally over-engineered for my own personal use, but feel free to play with it.
 
+![Example](example.png) 
+
 ## Install
 
 Add the code from
