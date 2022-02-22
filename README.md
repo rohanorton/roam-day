@@ -16,8 +16,7 @@ to a roam/js block in your roam graph and enable it.
 
 You probably shouldn't trust that though, but you could use the [development
 build](https://raw.githubusercontent.com/rohanorton/roam-day/main/dist/main.dev.js)
-which isn't minified and a
-little less unreadable as a result.
+which isn't minified and so a little more readable as a result.
 
 ## Styles
 
