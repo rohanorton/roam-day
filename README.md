@@ -1,6 +1,6 @@
 ![Example](example.png) 
 
-[![CircleCI](https://circleci.com/gh/rohanorton/roam-day/tree/main.svg?style=svg)](https://circleci.com/gh/rohanorton/roam-day/tree/main)
+[![CircleCI](https://circleci.com/gh/rohanorton/roam-day/tree/main.svg?style=shield)](https://circleci.com/gh/rohanorton/roam-day/tree/main)
 
 # Roam Day
 
